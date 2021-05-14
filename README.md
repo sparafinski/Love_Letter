@@ -1,2 +1,2 @@
-# Love_Letter_final
-So much spaghetti code
+# Love_Letter 
+LAN versione of game
